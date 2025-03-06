@@ -1,10 +1,11 @@
 {
   "main": "index.js",
   "scripts": {
-    "staging": "nodemon ./index.js",
-    "production": "./index.js"
+    "staging": "nodemon src/index.js",
+    "production": "node src/index.js"
   },
   "dependencies": {
+    "concise-logging": "^1.0.2",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.4"
