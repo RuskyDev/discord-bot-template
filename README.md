@@ -12,8 +12,8 @@ A modern Discord.js bot template
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/RuskyDev/discord-bot-template-v15.git
-cd discord-bot-template-v15
+git clone https://github.com/RuskyDev/discord-bot-template.git
+cd discord-bot-template
 ```
 
 2. Install dependencies:
