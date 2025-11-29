@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A modern Discord.js bot template",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Ayaan Ali",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
