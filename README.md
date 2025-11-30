@@ -35,7 +35,7 @@ DISCORD_BOT_CLIENT_ID=your_discord_bot_client_id
 export default {
     PREFIX: '!',                  // Prefix for prefix commands
     ACTIVITY_TEXT: 'with Discord',// Bot presence text
-    ACTIVITY_TYPE: 'Playing',     // Playing, Watching, Listening, etc.
+    ACTIVITY_TYPE: 'Playing',     // Playing, Watching, Listening, Competing.
     ACTIVITY_STATUS: 'Online',    // Online, Idle, DoNotDisturb, Invisible
 };
 ```
