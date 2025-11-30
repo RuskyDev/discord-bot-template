@@ -2,7 +2,7 @@
 A modern Discord.js bot template
 
 ## Features
-* 4 customizable options via `config.js`
+* 4 Customizable options via `config.js`
 * Slash Command Handler
 * Prefix Command Handler
 * Event Handler
